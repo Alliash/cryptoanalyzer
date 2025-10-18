@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/cryptoanalyzer.iml" filepath="$PROJECT_DIR$/cryptoanalyzer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.javarush.deryagin.cryptoanalyzer.iml" filepath="$PROJECT_DIR$/com.javarush.deryagin.cryptoanalyzer.iml" />
     </modules>
   </component>
 </project>
